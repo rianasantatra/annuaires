@@ -14,9 +14,6 @@
 			<div class="navbar-header">
 				<a class="navbar-brand" href="#"><img src="<?php echo site_url(); ?>img/phonebook.png">&nbsp;Annuaires</a>
 			</div>
-			<ul class="nav navbar-nav navbar-right">
-				<li><a class="btn btn-primary" href="<?php echo site_url(); ?>add-annuaire"><i class="bi bi-plus"></i> Ajouter</a></li>
-			</ul>
 		</div>
 	</nav>
 	<div class="container">
